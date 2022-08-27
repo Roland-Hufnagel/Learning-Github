@@ -33,4 +33,4 @@ Some paragraph with text.
 | content | more content | text |
 | more | more | more |
 
-This is being * created * on a ** Friday ** ~~Saturday~~.
+This is being *created* on a **Friday** ~~Saturday~~.
